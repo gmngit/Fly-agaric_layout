@@ -20,12 +20,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: end;
     text-align: center;
     gap: 40px;
-}
-
-.card:hover {
-    transform: scale(1.07);
 }
 
 .card__header {

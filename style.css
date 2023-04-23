@@ -253,6 +253,12 @@ html {
     color: #fff;
 }
 
+.button-link_blue:hover {
+    background-color: #f38181;
+    color: #1C2752;
+    transition-duration: 0.8s;
+}
+
 .button-link a {
 	display: block;
 	padding: 19px 42px;
